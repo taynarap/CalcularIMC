@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(43, 172, 231);
+    font-family:'Courier New', Courier, monospace;
+}
+
+#caixa{
+    background-color: rgb(255, 255, 255);
+    border-radius: 60px 0px;
+    padding: 40px 15px 40px 15px;
+}
+
+#titulo{
+    color: rgb(27, 218, 218);
+    margin-bottom: 15px;
+}
+
+a > button{
+    background-color: rgb(27, 218, 218);
+    border: 0px;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    width: 25%;
+}
+
+#caixa > .imagem {
+    border-radius: 10px;
+    width: 300px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(91, 91, 232);   
+}
+
+.v {
+    color: red;
+}
+
+.g{
+    color: green;
+}
